@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
     <h1>CI/CD Pipeline with GitHub, Jenkins, Ansible, and Kubernetes</h1>
-    <p>Please fill in this form to get started.</p>
     <hr />
 
     <label for="Name"><b>Name</b></label>
